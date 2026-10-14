@@ -1,0 +1,6 @@
+{
+  "name": "JEE Preparation Tracker",
+  "description": "Comprehensive JEE Main & Advanced prep tracker with 3D visualization, weighted marks trends, revision tracking, and study tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
